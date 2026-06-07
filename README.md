@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Bulk Cryptographic UUID v4 generator with clear export configs.
+  name: uuid-generator-utility version: 1.0 type: Repository author: VarshuAi description: >   Bulk Cryptographic UUID v4 generator with clear export configs. primary_tech: CSS
 primary_tech: CSS
 ```
 
